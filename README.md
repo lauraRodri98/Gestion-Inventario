@@ -13,7 +13,7 @@ Este proyecto es una **aplicación de gestión de inventario** diseñada para or
 - **Frontend**: React.js y NextJS para la construcción de la interfaz de usuario.
 - **Backend**: Node.js y Express para la gestión de datos.
 - **Base de datos**: MongoDB para almacenar productos y categorías.
-- **Estilos**: tailwind para la personalización de estilos.
+- **Estilos**: Tailwind para la personalización de estilos.
 
 ## Instalación:
 1. Clona el repositorio:
@@ -27,12 +27,6 @@ Este proyecto es una **aplicación de gestión de inventario** diseñada para or
 3. Inicia el servidor:
    ```bash
    pnpm run dev
-
-## Tecnologías utilizadas:
-- **Frontend**: React.js para la construcción de la interfaz de usuario.
-- **Backend**: Node.js y Express para la gestión de datos.
-- **Base de datos**: MongoDB para almacenar productos y categorías.
-- **Estilos**: SASS para la personalización de estilos y mejorar la organización del código CSS.
 
 ##  Licencia:
 Este proyecto está bajo la Licencia MIT.
